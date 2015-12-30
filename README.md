@@ -2,7 +2,7 @@
 Search view on actionbar
 
 Screenshots
-===========
+============
 
 ![ScreenShot](https://github.com/trbala0205/Actionbar-overlay-searchview/blob/master/screenshots/searchview_on_actionbar.png?raw=true)
 
